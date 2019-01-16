@@ -1,0 +1,13 @@
+urllib==3.7
+dash==0.35.2
+dash_core_components==0.42.1
+dash_html_components==0.13.5
+flask==1.0.2
+re==2.2.1
+random==3.7
+time==3.7
+dash_table_experiments==0.6.0
+numpy==1.14.2
+pandas==0.22.0
+requests==2.18.4
+bs4==4.7.1
